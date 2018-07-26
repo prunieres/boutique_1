@@ -1,0 +1,46 @@
+/* general */
+.fab, .fas {
+	vertical-align: text-top;
+}
+
+/* header */
+.col-md-12.big {
+    background-image: url(../img/big2.jpg);
+	min-height: 500px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: black;
+}
+/* filtre */
+#filter {
+	/* border-top: solid 3px lightblue; */
+	background-color: bisque;
+	padding: 1em;
+}
+#filter h3 {
+	text-align: right;
+}
+
+/* main */
+main {
+	padding: 7rem;
+}
+main .badge.badge-danger {
+	display: block;
+	margin-top: 2em;
+	padding: 1em;
+}
+
+.variante #dropdownMenuButton {
+	width: 50%;
+}
+
+.thumb {
+	max-width: 250px;
+	height: 100%;
+}
+.quantity,.price {
+	width: 49%;
+	display: inline-block;
+}
+/* footer */
