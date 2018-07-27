@@ -12,7 +12,7 @@
 
 <body>
 
-    <div class="container-fluid p-0">
+        <div class="container-fluid p-0">
         <header>
             <!-- row -->
             <div class="row">
@@ -21,7 +21,7 @@
                 <div class="col-md-12">
                     <!-- navbar -->
                     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                        <a class="navbar-brand" href="catalog.html">Logo</a>
+                        <a class="navbar-brand" href="catalog.html">Au bon frometon</a>
                         <img src="img/wolf.png" width="30" height="30" alt="logo" />
 
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -29,30 +29,32 @@
 
                                 <!--Catégorie1 -->
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Catégorie1</a>
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+                                     aria-haspopup="true" aria-expanded="false">Fromages d'Auvergne</a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="product.html">Sous-catégorie1</a>
+                                        <a class="dropdown-item" href="catalog.php">Bleus</a>
                                         <div class="dropdown-divider"></div>
-                                        <a class="dropdown-item" href="#">Sous-catégorie2</a>
+                                        <a class="dropdown-item" href="catalog.php">Cantal</a>
                                         <div class="dropdown-divider"></div>
-                                        <a class="dropdown-item" href="#">Sous-catégorie3</a>
+                                        <a class="dropdown-item" href="catalog.php">St Nectaire</a>
                                         <div class="dropdown-divider"></div>
-                                        <a class="dropdown-item" href="#">Sous-catégorie4</a>
+                                        <a class="dropdown-item" href="catalog.php">Fourmes</a>
                                     </div>
                                 </li>
                                 <!-- Catégorie1 -->
 
                                 <!--Catégorie2 -->
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Catégorie2</a>
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+                                     aria-haspopup="true" aria-expanded="false">Fromages d'Auvergne</a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="#">Sous-catégorie1</a>
+                                        <a class="dropdown-item" href="catalog.php">Bleus</a>
                                         <div class="dropdown-divider"></div>
-                                        <a class="dropdown-item" href="#">Sous-catégorie2</a>
+                                        <a class="dropdown-item" href="catalog.php">Cantal</a>
                                         <div class="dropdown-divider"></div>
-                                        <a class="dropdown-item" href="#">Sous-catégorie3</a>
+                                        <a class="dropdown-item" href="catalog.php">St Nectaire</a>
                                         <div class="dropdown-divider"></div>
-                                        <a class="dropdown-item" href="#">Sous-catégorie4</a>
+                                        <a class="dropdown-item" href="catalog.php">Fourmes</a>
                                     </div>
                                 </li>
                                 <!-- Catégorie2 -->
@@ -60,30 +62,32 @@
 
                                 <!--Catégorie3 -->
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Catégorie3</a>
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+                                     aria-haspopup="true" aria-expanded="false">Fromages d'Auvergne</a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="#">Sous-catégorie1</a>
+                                        <a class="dropdown-item" href="catalog.php">Bleus</a>
                                         <div class="dropdown-divider"></div>
-                                        <a class="dropdown-item" href="#">Sous-catégorie2</a>
+                                        <a class="dropdown-item" href="catalog.php">Cantal</a>
                                         <div class="dropdown-divider"></div>
-                                        <a class="dropdown-item" href="#">Sous-catégorie3</a>
+                                        <a class="dropdown-item" href="catalog.php">St Nectaire</a>
                                         <div class="dropdown-divider"></div>
-                                        <a class="dropdown-item" href="#">Sous-catégorie4</a>
+                                        <a class="dropdown-item" href="catalog.php">Fourmes</a>
                                     </div>
                                 </li>
                                 <!-- Catégorie3 -->
 
                                 <!--Catégorie4 -->
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown4" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Catégorie4</a>
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+                                     aria-haspopup="true" aria-expanded="false">Fromages d'Auvergne</a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="#">Sous-catégorie1</a>
+                                        <a class="dropdown-item" href="catalog.php">Bleus</a>
                                         <div class="dropdown-divider"></div>
-                                        <a class="dropdown-item" href="#">Sous-catégorie2</a>
+                                        <a class="dropdown-item" href="catalog.php">Cantal</a>
                                         <div class="dropdown-divider"></div>
-                                        <a class="dropdown-item" href="#">Sous-catégorie3</a>
+                                        <a class="dropdown-item" href="catalog.php">St Nectaire</a>
                                         <div class="dropdown-divider"></div>
-                                        <a class="dropdown-item" href="#">Sous-catégorie4</a>
+                                        <a class="dropdown-item" href="catalog.php">Fourmes</a>
                                     </div>
                                 </li>
                                 <!-- Catégorie4 -->
